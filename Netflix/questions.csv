@@ -1,0 +1,8 @@
+id,category,question
+1,Coding,"JavaScript에서 contains() 함수를 작성하세요."
+2,Coding,"contains 함수를 개선하여 JavaScript 시스템의 일부로 만드세요 (예: HTMLElement.prototype)."
+3,Coding,"수백만 개의 값이 있는 두 리스트의 합집합과 교집합을 어떻게 찾을 수 있나요?"
+4,Coding,"해당 솔루션을 어떻게 최적화할 수 있나요?"
+5,Coding,"싱글톤(Singleton)을 구현하는 코드를 작성하세요."
+6,Tech,"싱글톤(Singleton)이란 무엇인가요?"
+7,DSALG,"10000개의 서버가 있고, 각 서버에 1MB 크기의 파일을 전송해야 합니다. 파일은 랩탑에서 시작하여 각 서버로 전송됩니다. 각 서버 간에 1MB의 대역폭만 있습니다. 모든 서버에 파일을 전송하는 데 걸리는 최단 시간을 구하세요?"

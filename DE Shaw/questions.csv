@@ -1,0 +1,7 @@
+id,category,question
+1,Coding,"문자열에서 모든 공백을 '%20'으로 바꾸세요."
+2,Coding,"주어진 열 번호에서 Excel 열 이름을 찾으세요. 예: 1 = A, 26 = Z, 27 = AA, 52 = AZ 등."
+3,Coding,"이진 탐색 트리에서 부모 포인터가 있는 노드의 중위 후속자를 찾으세요."
+4,Data Structures and Algorithms,
+5,DBMS,"교착 상태와 그것이 발생하기 위한 조건을 설명하세요."
+6,DBMS,"상호 배타성(Mutual Exclusion)이란 무엇이며, 왜 필요한가요? 상호 배타성을 어떻게 달성할 수 있나요?"

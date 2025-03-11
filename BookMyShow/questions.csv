@@ -1,0 +1,11 @@
+id,category,question
+1,Coding,"두 문자열이 주어졌을 때, 하나의 문자열을 다른 문자열의 애너그램으로 변환하는 데 필요한 최소 수정 횟수를 반환하세요."
+2,Coding,"주어진 트리의 전위 순회가 이진 탐색 트리(BST)의 전위 순회인지 확인하세요."
+3,Coding,"숫자 n이 주어졌을 때, 이 숫자를 0으로 줄이는 데 필요한 최소 연산 횟수를 반환하세요."
+4,Coding,"주어진 표현식 문자열 exp에 대해, 괄호들의 쌍과 순서가 올바른지 확인하는 프로그램을 작성하세요. {, }, (, ), [ 및 ]로 이루어진 표현식입니다."
+5,Data Structures and Algorithms,"주어진 배열에서 구별되는 순서가 없는 쌍의 개수를 반환하세요."
+6,Operating System,"캐시 무효화란 무엇인가요? LRU 캐시를 구현하세요."
+7,Operating System,"세마포어란 무엇인가요?"
+8,Computer Networks,"www.google.com을 크롬에서 입력했을 때 어떤 일이 일어나는지 전체 흐름을 설명하세요."
+9,Miscellaneous,"비동기 JavaScript에 관한 질문 (Promises, Async/Await, Node.js는 단일 스레드인가요?, JavaScript 이벤트 루프)."
+10,Miscellaneous,"전화번호 유효성 검사와 그에 관련된 모든 사용 사례를 설명하세요."

@@ -1,0 +1,12 @@
+id,category,question
+1,Coding,"이진 탐색 트리와 키가 주어졌을 때, 트리에서 키를 찾으면 1을 반환하고, 그렇지 않으면 -1을 반환하세요."
+2,Coding,"문자열이 주어졌을 때, 고유한 부분 문자열의 개수를 구하세요 (시간과 공간 복잡도를 최적화해야 합니다)."
+3,Coding,"문자열이 주어졌을 때, 고유한 팰린드롬 부분 문자열의 개수를 구하세요 (시간 복잡도를 최적화해야 합니다)."
+4,Technical Interview - Data Structures and Algorithms,"불린 표현식이 주어졌을 때, 그 표현식을 참으로 평가하기 위해 괄호를 어떻게 배치할 수 있는지의 방법 수를 구하세요."
+5,Technical Interview - Data Structures and Algorithms,"게임에 대한 최적 전략. (길이가 N인 배열 A가 주어집니다. 배열은 정수로 이루어져 있고 짝수 길이입니다. 배열의 원소들은 V1, V2, ..., Vn 값의 동전들을 나타냅니다. 당신은 상대방과 번갈아 가며 게임을 합니다. 각 턴마다, 플레이어는 배열의 첫 번째 또는 마지막 동전을 선택하여 배열에서 제거하고 그 동전의 값을 받습니다. 당신이 먼저 시작할 때 최대한 얻을 수 있는 금액을 구하세요.)"
+6,Technical Interview - Data Structures and Algorithms,"n개의 계단이 주어졌을 때, 한 번에 1, 2, 또는 3개의 계단을 오를 수 있습니다. n번째 계단에 도달하는 방법의 수를 구하세요."
+7,Technical Interview - Data Structures and Algorithms,"트리의 루트 포인터와 두 값 val1과 val2가 주어졌을 때, 이진 트리에서 val1과 val2 사이의 경로 길이를 구하세요. {두 값이 같은 경로에 있는 경우를 처리하세요.}"
+8,Technical Interview - Data Structures and Algorithms,"숫자와 알파벳 사이의 매핑이 주어졌을 때, 숫자 시퀀스를 해석할 수 있는 방법의 수를 구하세요."
+9,Technical Interview - Data Structures and Algorithms,"0과 1로 이루어진 행렬이 주어졌을 때, 1을 가진 연결된 컴포넌트의 수를 구하세요."
+10,Technical Interview - Data Structures and Algorithms,"트리가 주어졌을 때, 그것이 이진 탐색 트리인지 아닌지를 확인하세요. 제약 조건: 공간 복잡도 O(1)."
+11,Miscellaneous,"이력서에 대해 질문을 받았고, 프로젝트에서 직면한 도전 과제들에 대해 질문을 받았습니다. 기타 행동 질문들."
